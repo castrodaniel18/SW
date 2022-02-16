@@ -1,0 +1,23 @@
+body {
+	background-color: #000000;
+	color: #00CC00;
+    font-size: 18px;
+	font-family: monospace;
+}
+/*  Para poner todas las etiquetas
+* {
+	font-size: 18px; 
+}
+*/
+
+h1{
+	font-size: 18px; 
+}
+
+h2 {
+	font-size: 18px; 
+}
+
+h3 {
+	font-size: 18px; 
+}
